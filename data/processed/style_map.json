@@ -1,0 +1,39 @@
+{
+ "features": {
+  "golddiffat15": "Gold lead at 15 min",
+  "ckpm": "Kills per minute (both teams)",
+  "len": "Game length (min)",
+  "firsttower": "First tower rate",
+  "firstblood": "First blood rate",
+  "dragons": "Dragons per game",
+  "heralds": "Heralds per game",
+  "void_grubs": "Void grubs per game",
+  "barons": "Barons per game"
+ },
+ "load1": {
+  "golddiffat15": 0.4094542218324615,
+  "ckpm": -0.11604389063218346,
+  "len": 0.05131733451079625,
+  "firsttower": 0.49842814553963183,
+  "firstblood": -0.28425494964497466,
+  "dragons": 0.2928996036268171,
+  "heralds": 0.3495138002421451,
+  "void_grubs": -0.2720098658241271,
+  "barons": 0.4528538977588369
+ },
+ "load2": {
+  "golddiffat15": 0.15708436121803906,
+  "ckpm": 0.5694037257395013,
+  "len": -0.6568496237155791,
+  "firsttower": 0.012031582302596943,
+  "firstblood": 0.31048420397086796,
+  "dragons": -0.019841075697577065,
+  "heralds": 0.32278996219006406,
+  "void_grubs": 0.10491275089364846,
+  "barons": 0.08668078931167796
+ },
+ "var": [
+  0.3782264535683103,
+  0.2161052080508924
+ ]
+}

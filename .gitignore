@@ -1,0 +1,6 @@
+.env
+.DS_Store
+__pycache__/
+# large / third-party data: download or re-crawl, see README
+data/raw/
+data/probe/

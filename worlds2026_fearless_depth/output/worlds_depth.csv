@@ -1,0 +1,76 @@
+team,region,pos,playerid,player,games,own_champs,variety
+Gen.G,LCK,top,oe:player:03daae1844b9ad257324c3eedf41e28,Kiin,128,25,7.824978618848601
+Gen.G,LCK,jng,oe:player:92544d7a994bd6841cccd9f6e42e3de,Canyon,128,16,6.980696261346541
+Gen.G,LCK,mid,oe:player:fb6e61b8acb05df17b7e5ad4ae7c800,Chovy,128,23,7.525056189966713
+Gen.G,LCK,bot,oe:player:eada4723af6f51cf2391d85b5fde49b,Ruler,128,22,7.3753621909440295
+Gen.G,LCK,sup,oe:player:605821ebcf6a2e53f03ec6e8e463d1b,Duro,128,22,7.5547349084788
+Hanwha Life Esports,LCK,top,oe:player:98dd15c330fb5abb4508347265a7f76,Zeus,143,31,7.895052113256259
+Hanwha Life Esports,LCK,jng,oe:player:41deab55354f57a94135989133f9968,Kanavi,143,20,6.7442533656383254
+Hanwha Life Esports,LCK,mid,oe:player:f9cd2ef9afea5cda0eb3263a025cec1,Zeka,143,21,7.481668203339471
+Hanwha Life Esports,LCK,bot,oe:player:c7319736816efe935787b4381c6f321,Gumayusi,143,21,7.208578337685017
+Hanwha Life Esports,LCK,sup,oe:player:051ca2e31ba25123961b3df95fdef4c,Delight,137,18,7.265698767069192
+T1,LCK,top,oe:player:57acacc1f182893280e7400073a3dd1,Doran,155,27,7.629870135724703
+T1,LCK,jng,oe:player:f8b68f268106124fc4bc1c946adc9b0,Oner,152,21,6.82821133558422
+T1,LCK,mid,oe:player:e1edfc5cea461399a63cb813cf795cc,Faker,155,20,7.432467932230468
+T1,LCK,bot,oe:player:5bbc2b92348d930ebd500cb9ce71bb7,Peyz,155,26,7.871559288242879
+T1,LCK,sup,oe:player:db79ce6ad35451c938fbe2995dabd37,Keria,155,26,7.964883503295048
+Dplus Kia,LCK,top,oe:player:da9f969a7ab3819b9e528072aa4d5e6,Siwoo,146,25,7.563145571833692
+Dplus Kia,LCK,jng,oe:player:10b86429ce8048aba673d802632e358,Lucid,145,19,6.546618629651042
+Dplus Kia,LCK,mid,oe:player:5f8ff49cd56eae61d635966b183a451,ShowMaker,146,23,7.540274634805849
+Dplus Kia,LCK,bot,oe:player:eaebb7118d7bd83eabac513053e1f6c,Smash,146,22,7.433729916001139
+Dplus Kia,LCK,sup,oe:player:99e732def3601275db892c84fb85a0c,Career,146,24,7.713692206487929
+Anyone's Legend,LPL,top,oe:player:0d9b0a3b3a93a8f759c9d8ac8eef97c,Breathe,90,18,6.766901450526606
+Anyone's Legend,LPL,jng,oe:player:62922f2b370657a966de4d84f5586bf,Tarzan,142,21,7.1884921523963135
+Anyone's Legend,LPL,mid,oe:player:0e2f0d3ded24c190dd6a4b3d6f89f04,Shanks,142,19,7.240281971448467
+Anyone's Legend,LPL,bot,oe:player:7cf68f44e5dc31827b1d3f0a3b4a28e,Hope,142,17,7.12960476287649
+Anyone's Legend,LPL,sup,oe:player:d24f38ec30ce6f7577066f80e43e4bf,Kael,142,22,7.630809996207124
+Bilibili Gaming,LPL,top,oe:player:fb66ef5885b4be9323905b821dc3a42,Bin,147,20,6.978814460100295
+Bilibili Gaming,LPL,jng,oe:player:fbdc4428b2d095c83aebeed5da4e4b2,Xun,177,21,7.097252463955914
+Bilibili Gaming,LPL,mid,oe:player:ed29043422e3c515e1cb292464b990b,Knight,177,25,7.752429796001932
+Bilibili Gaming,LPL,bot,oe:player:9573154ad8bc9459b4c0d940315054f,Viper,177,25,7.485103492879368
+Bilibili Gaming,LPL,sup,oe:player:90651ebea9a35ec4e018c8157492e17,ON,177,23,7.323895083340406
+Top Esports,LPL,top,oe:player:f52533de1cc92487ab58b973cd2490e,ZUIAN,97,18,6.826278162388596
+Top Esports,LPL,jng,oe:player:0da0eeb199e8fa3ab773cf84f9de9ab,Tian,97,13,6.818255094221375
+Top Esports,LPL,mid,oe:player:6e7908512cb309a43388bb464a312a2,Creme,140,18,7.346539741067049
+Top Esports,LPL,bot,oe:player:c54e1090ef1faa736b12493051c4855,JackeyLove,97,20,7.103126093986983
+Top Esports,LPL,sup,oe:player:e78da55d6db43d982f841204a8e51ac,Zhuo,112,21,7.471382601914411
+Invictus Gaming,LPL,top,oe:player:37f20525a39d17ec49fd10294f9c994,TheShy,43,20,8.068710762026566
+Invictus Gaming,LPL,jng,oe:player:b61e517b1a6027160aafaf56e9867c0,Wei,126,16,7.219678599228995
+Invictus Gaming,LPL,mid,oe:player:1213778b5c6d69dcb26aa89f7d0aaa9,Rookie,86,20,7.689745800445969
+Invictus Gaming,LPL,bot,oe:player:d971df9441d60af93a87545e6a8f884,JiaQi,114,17,7.139622690538648
+Invictus Gaming,LPL,sup,oe:player:bda7cc061d7a1576f1dcad33dd505cd,Meiko,81,20,7.093377654346237
+G2 Esports,LEC,top,oe:player:84bff3a326833c7c9181c698f676878,BrokenBlade,131,28,7.731245357147712
+G2 Esports,LEC,jng,oe:player:ab15060e5225b51592cd04b3aed1e09,SkewMond,131,19,7.218712703300493
+G2 Esports,LEC,mid,oe:player:55dd587cdc4a278be6a5c37f9e539de,Caps,131,21,7.772697741530545
+G2 Esports,LEC,bot,oe:player:c62a5235ad6bc113a1e64eb0e9aa8c8,Hans Sama,131,20,7.39016802924743
+G2 Esports,LEC,sup,oe:player:bb6ac5763c6576e104a7a2f59eb4ddf,Labrov,131,19,7.444611687207034
+Movistar KOI,LEC,top,oe:player:ede24d5e0911d7a4f6ec514a67802ff,Myrwn,111,24,7.477874430096242
+Movistar KOI,LEC,jng,oe:player:8a8f18e4b7d0f30c19c5fb99a526951,Elyoya,111,21,7.156440768728489
+Movistar KOI,LEC,mid,oe:player:83eb62484689106807fcf5ad55b5479,Jojopyun,111,18,7.331780279616331
+Movistar KOI,LEC,bot,oe:player:1223a0ed2bfab9b714c72d965df8133,Supa,111,20,7.152895671577268
+Movistar KOI,LEC,sup,oe:player:f5bf9bd732b85e4dcab5121e4769ae4,Alvaro,111,19,7.403043230523169
+Team Liquid,LCS,top,oe:player:f73dde2d8c7879ae8d1fcdc03c4ffeb,Morgan,101,20,7.323221447598023
+Team Liquid,LCS,jng,oe:player:52b4f060a577ff87c99118d97fa75f4,Josedeodo,101,21,7.274864075883681
+Team Liquid,LCS,mid,oe:player:8f8eaac8e99c203ee76e57c5c81c91f,Quid,101,20,7.264005515708114
+Team Liquid,LCS,bot,oe:player:f6b8af05a5af22004a67a78f3046b92,Yeon,101,17,7.2368646291175525
+Team Liquid,LCS,sup,oe:player:05fafeaf23dc3285558a4e968970b9f,CoreJJ,101,16,7.186800708686574
+LYON,LCS,top,oe:player:5385f74da3e5deb5b66d9a1ee56cf97,Dhokla,119,28,7.643655050011055
+LYON,LCS,jng,oe:player:a8307167f3a1c933295bb9e3d43700e,Inspired,113,21,7.339638990091231
+LYON,LCS,mid,oe:player:f45792335d83b10581da2f0cbdd6e8e,Saint,122,22,7.802365435998288
+LYON,LCS,bot,oe:player:460ae5a7af8d68f7831b70307210ab3,Berserker,122,25,7.537317006754677
+LYON,LCS,sup,oe:player:40704dfd2d966862568d29770de57bd,Isles,122,20,7.60297719348451
+Team Secret Whales,LCP,top,oe:player:6644a7352d32c9c4443017798130b61,Pun,109,24,8.038170565781272
+Team Secret Whales,LCP,jng,oe:player:043e89cd3b06bc1a0555024d475c9d2,Hizto,110,19,6.7862165429137535
+Team Secret Whales,LCP,mid,oe:player:b7a3b6176406a92dd089fe2f82a1d3f,Dire,110,20,7.343015746065805
+Team Secret Whales,LCP,bot,oe:player:e5f6c83e6e97c74fc9e9760fc8972ae,Eddie,110,21,7.399678640169375
+Team Secret Whales,LCP,sup,oe:player:1f7d70f56b608b3137df2493949fdd0,Bie,110,23,7.415332495817727
+CTBC Flying Oyster,LCP,top,oe:player:55276c10d84e1df7713b441e76e141f,Rest,87,23,7.153314965774803
+CTBC Flying Oyster,LCP,jng,oe:player:c332dc879e14f1feb266190c7f396fd,Shad0w,87,16,7.2376415027722745
+CTBC Flying Oyster,LCP,mid,oe:player:ca187ee49dd3e9ed20eaacbbf484fdf,Pout,61,15,7.061961855700142
+CTBC Flying Oyster,LCP,bot,oe:player:95082306f78780da5686f118c993366,Doggo,87,27,7.66828338578926
+CTBC Flying Oyster,LCP,sup,oe:player:acb3a05894b7c57412b2d7e911e17dd,Kino,61,17,7.486022152537595
+LØS,CBLOL,top,oe:player:786b5bbf7bbfb7b79379e8589a865c1,Zest,115,27,7.936610121428577
+LØS,CBLOL,jng,oe:player:9c51ed760409db6fa2a02fe8046f110,Curse,122,22,7.189482705554459
+LØS,CBLOL,mid,oe:player:d1ae0e2f9f3ac1e0e0cdcb86504ca77,Feisty,115,18,6.907919176166619
+LØS,CBLOL,bot,oe:player:b4179fdeda1242fcd94b82a5710dd3e,Duduhh,115,31,7.83868251931499
+LØS,CBLOL,sup,oe:player:145201414ecb853de684fbe7d6bb5b6,Ackerman,115,20,7.589413737052112

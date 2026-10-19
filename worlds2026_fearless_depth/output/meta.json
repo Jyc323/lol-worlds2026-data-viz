@@ -1,0 +1,41 @@
+{
+  "generated_utc": "2026-10-14T20:23:58+00:00",
+  "data_file": "2026_LoL_esports_match_data_from_OraclesElixir.csv",
+  "data_md5": "07fb37356c7c7fb3d1b3eac3f0d77714",
+  "games_in_file": 9647,
+  "latest_game_date": "2026-10-13 17:35:36",
+  "params": {
+    "k_games": 10,
+    "starters_from_last_n_team_games": 30,
+    "min_team_games_winrate_chart": 30,
+    "bootstrap_seed": 3
+  },
+  "swiss_stage_direct_teams": [
+    "Gen.G",
+    "Hanwha Life Esports",
+    "T1",
+    "Dplus Kia",
+    "Anyone's Legend",
+    "Bilibili Gaming",
+    "Top Esports",
+    "Invictus Gaming",
+    "G2 Esports",
+    "Movistar KOI",
+    "Team Liquid",
+    "LYON",
+    "Team Secret Whales",
+    "CTBC Flying Oyster",
+    "LØS"
+  ],
+  "play_in_teams_excluded": [
+    "Cloud9",
+    "FURIA",
+    "Karmine Corp",
+    "MVK Esports"
+  ],
+  "versions": {
+    "pandas": "3.0.5",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2"
+  }
+}
